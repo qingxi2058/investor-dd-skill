@@ -1,5 +1,7 @@
 # investor-dd-skill
 
+> 本仓库已归档。新版请前往 [investor-skill](https://github.com/qingxi2058/investor-skill)。下方安装命令仍指向旧版。
+
 像顶级投资人一样，专门拷问一个创业想法、项目或副业到底靠不靠谱。
 
 它不是来鼓励你的，也不是来陪你空想的。它的作用只有一个：尽快把一个想法问穿，然后给出明确结论。
